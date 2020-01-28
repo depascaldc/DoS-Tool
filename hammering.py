@@ -1,3 +1,13 @@
+
+"""
+/*
+ * This DOS-TOOL was written by depascaldc ( Discord: depascaldc#1234 ) < service@depascaldc.de >
+ * Copying for PRIVATE usage is allowed as long as you don't mention it as your own.
+ * Copyright (C) 2020 | depascaldc | All Rights Reserved
+ *  
+ */
+"""
+
 import socket
 import time
 import os
