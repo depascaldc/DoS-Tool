@@ -24,6 +24,8 @@
 - command to start: `python3 hammering.py`
 - 
 ---
+![](https://cdn.discordapp.com/attachments/611010515388334080/671547384886591518/unknown.png)
+---
 
 ### EN - Disclaimer:
 ```md
@@ -38,7 +40,7 @@ I'm not to be held responsible for any result arising from a DoS attack launched
 ---
 ### DE - Haftungsausschluss:
 ```md
-DIESES WERKZEUG WURDE NUR FÜR DEN PRIVATEN GEBRAUCH GESCHRIEBEN!
+DIESES TOOL WURDE NUR FÜR DEN PRIVATEN GEBRAUCH GESCHRIEBEN!
 
 Stellen Sie sicher, dass Sie über die erforderlichen Berechtigungen zum Ausführen von DoS-Angriffen auf das Zielsystem verfügen.
 
