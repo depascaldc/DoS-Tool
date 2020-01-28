@@ -24,6 +24,23 @@
 - command to start: `python3 hammering.py`
 - 
 ---
+INSTALLING PYTHON ON LINUX:
+```
+$ sudo apt-get install software-properties-common
+$ sudo add-apt-repository ppa:deadsnakes/ppa
+$ sudo apt-get update
+$ sudo apt-get install python3
+```
+INSTALLING PYTHON ON WINDOWS:
+```
+Step 1: Select Version of Python to Install. Here: https://www.python.org/downloads/windows/
+Step 2: Download Python Executable Installer.
+Step 3: Run The Executable Installer.
+Step 4: Verify Python Was Installed On Windows.
+Step 5: Verify Pip Was Installed.
+Step 6: Add Python Path to Environment Variables (Optional)
+```
+---
 ![](https://cdn.discordapp.com/attachments/611010515388334080/671547384886591518/unknown.png)
 ---
 
